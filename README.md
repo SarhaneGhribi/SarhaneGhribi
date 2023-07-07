@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Sarhane Ghribi</h1>
+
 # 💫 About Me:
 As a Full-Stack web and mobile developer. I am a committed problem solver, a team player and an effective communicator. With a keen eye for detail and a passion towards my work.
 
